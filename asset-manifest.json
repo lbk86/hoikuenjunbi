@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hoikuenjunbi/static/css/main.e6c13ad2.css",
+    "main.js": "/hoikuenjunbi/static/js/main.e64e4c38.js",
+    "static/js/453.7f9c4cbe.chunk.js": "/hoikuenjunbi/static/js/453.7f9c4cbe.chunk.js",
+    "index.html": "/hoikuenjunbi/index.html",
+    "main.e6c13ad2.css.map": "/hoikuenjunbi/static/css/main.e6c13ad2.css.map",
+    "main.e64e4c38.js.map": "/hoikuenjunbi/static/js/main.e64e4c38.js.map",
+    "453.7f9c4cbe.chunk.js.map": "/hoikuenjunbi/static/js/453.7f9c4cbe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e64e4c38.js"
+  ]
+}
